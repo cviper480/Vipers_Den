@@ -17,4 +17,5 @@
 * [Using CrackMapExec](cape/using-crackmapexec/README.md)
   * [Solutions](cape/using-crackmapexec/solutions.md)
   * [CrackMapExec](cape/using-crackmapexec/crackmapexec.md)
+  * [Notes](cape/using-crackmapexec/notes.md)
 * [z. Required Configuration](cape/z.-required-configuration.md)
