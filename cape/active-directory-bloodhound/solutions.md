@@ -1,3 +1,7 @@
+---
+icon: comment-code
+---
+
 # Solutions
 
 ## Active Directory BloodHound Module
