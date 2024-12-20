@@ -14,3 +14,6 @@
   * [Solutions](cape/active-directory-enumeration-and-attacks/solutions.md)
   * [Cheat Sheets](cape/active-directory-enumeration-and-attacks/cheat-sheets.md)
   * [Active Directory Enumeration & Attacks](cape/active-directory-enumeration-and-attacks/active-directory-enumeration-and-attacks.md)
+* [z. Required Configuration](cape/z.-required-configuration.md)
+* [Using CrackMapExec](cape/using-crackmapexec/README.md)
+  * [Solutions](cape/using-crackmapexec/solutions.md)

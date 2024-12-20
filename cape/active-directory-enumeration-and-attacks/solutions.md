@@ -1,3 +1,7 @@
+---
+icon: comment-code
+---
+
 # Solutions
 
 ## Active Directory Enumeration & Attacks Module
