@@ -21,3 +21,7 @@ Ensure continue-on-success
 ```
 nxc smb 10.129.204.177 -u ./users.txt -p ./passwords.txt --continue-on-success
 ```
+
+WMI Query Notes
+
+[https://learn.microsoft.com/en-us/windows/win32/wmisdk/wql-sql-for-wmi](https://learn.microsoft.com/en-us/windows/win32/wmisdk/wql-sql-for-wmi)
