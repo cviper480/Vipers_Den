@@ -23,3 +23,6 @@
 * [CAPE External Links](cape/cape-external-links/README.md)
   * [Exploits](cape/cape-external-links/exploits.md)
 * [Cheat Cheets](cape/cheat-cheets.md)
+* [Sliver](cape/sliver/README.md)
+  * [Cheat Sheet](cape/sliver/cheat-sheet.md)
+  * [Solutions](cape/sliver/solutions.md)
