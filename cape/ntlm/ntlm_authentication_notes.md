@@ -1,4 +1,7 @@
 # NTLM - Authentication and Relaying
+## NTLM Attacks - How?
+NTLM attacks can arise from a machine within the domain issuing broadcast messages. 
+  - I.e., User mistypes UNC when searching for a share
 
 ## NTLM Overview
 > Authentication Overview
@@ -29,3 +32,36 @@ Workgroup Auth (server performs authenticate:
 
 ------
 
+## Cross-Protocol Relaying
+
+![image](https://github.com/user-attachments/assets/372ee0c2-11c6-4fee-a8c7-eb912043ab6a)
+
+
+
+| Relay Authentication From      | Relay Authentication Over                                      | Cross-protocol? |
+|---------------------------------|---------------------------------------------------------------|-----------------|
+| HTTP(S)                         | HTTP(S)                                                       | No              |
+| HTTP(S)                         | IMAP, LDAP(S), MSSQL, RPC, SMBv/1/2/3, SMTP                   | Yes             |
+| SMBv/1/2/3                      | SMBv/1/2/3                                                    | No              |
+| SMBv/1/2/3                      | HTTP(S), IMAP, LDAP(S), MSSQL, RPC, SMTP                      | Yes             |
+| WCF                             | HTTP(S), IMAP, LDAP(S), MSSQL, RPC, SMBv/1/2/3, SMTP          | Yes             |
+
+### Purpose
+Perform protocol specific attacks in the absence of that protocols requests - i.e., dumping LDAP-related information, or LDAP-related attacks, but only have an HTTP or SMB vector available.
+
+
+### Caveats
+Session signing is now default for DC configuration.
+SMB to LDAP will not work with signing required
+  - Workarounds:
+  -   '--remove-mic' for CVE-2019-1040
+  -   '--remove-target' for CVE-2019-1019
+  -   HTTP has no session signing component, so HTTP to LDAP can work
+
+### Attack Types
+There are various attack types and uses of relaying:
+  - Hash stealing / credential harvesting
+  - Computer account creation
+  - Privilege escalation
+  - Delegation attacks
+  - Information dumping (SAM, secrets, etc.)
