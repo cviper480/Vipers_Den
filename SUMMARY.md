@@ -26,3 +26,8 @@
 * [Sliver](cape/sliver/README.md)
   * [Cheat Sheet](cape/sliver/cheat-sheet.md)
   * [Solutions](cape/sliver/solutions.md)
+* [Kerberos Attacks](cape/kerberos-attacks/README.md)
+  * [Cheat Sheets ](cape/kerberos-attacks/cheat-sheets.md)
+  * [attl4s](https://attl4s.github.io/)
+  * [You Do (Not) Understand Kerberos](https://www.youtube.com/watch?v=4LDpb1R3Ghg\&list=PLwb6et4T42wyb8dx-LQAA0PzLjw6ZlrXh)
+  * [Solutions](cape/kerberos-attacks/solutions.md)
