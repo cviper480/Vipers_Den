@@ -1,8 +1,12 @@
 # Table of contents
 
+* [CWEE](README.md)
+  * [Introduction to NoSQL](cwee/introduction-to-nosql/README.md)
+    * [Solutions](cwee/introduction-to-nosql/solutions.md)
+
 ## CAPE
 
-* [Active Directory Powerview](README.md)
+* [Active Directory Powerview](<README (1).md>)
   * [Solutions](cape/active-directory-powerview/solutions.md)
   * [Active Directory PowerView](cape/active-directory-powerview/active-directory-powerview.md)
   * [Cheat Sheet](cape/active-directory-powerview/cheat-sheet.md)
