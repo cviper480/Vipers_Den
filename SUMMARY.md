@@ -3,6 +3,8 @@
 * [CWEE](README.md)
   * [Introduction to NoSQL](cwee/introduction-to-nosql/README.md)
     * [Solutions](cwee/introduction-to-nosql/solutions.md)
+  * [Advanced XSS and CSRF Exploitation](cwee/advanced-xss-and-csrf-exploitation/README.md)
+    * [Solutions](cwee/advanced-xss-and-csrf-exploitation/solutions.md)
 
 ## CAPE
 
