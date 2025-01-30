@@ -37,3 +37,10 @@
   * [attl4s](https://attl4s.github.io/)
   * [You Do (Not) Understand Kerberos](https://www.youtube.com/watch?v=4LDpb1R3Ghg\&list=PLwb6et4T42wyb8dx-LQAA0PzLjw6ZlrXh)
   * [Solutions](cape/kerberos-attacks/solutions.md)
+
+## OSEP
+
+* [NOTES](osep/notes/README.md)
+  * [MSFVenom](osep/notes/msfvenom.md)
+* [Course](osep/course/README.md)
+  * [3. Client Side Code Execution With Office](osep/course/3.-client-side-code-execution-with-office.md)
