@@ -43,4 +43,7 @@
 * [NOTES](osep/notes/README.md)
   * [MSFVenom](osep/notes/msfvenom.md)
 * [Course](osep/course/README.md)
+  * [1. Evasion Techniques and Breaching Defenses: General Course Information](osep/course/1.-evasion-techniques-and-breaching-defenses-general-course-information.md)
+  * [2. Operating System and Programming Theory](osep/course/2.-operating-system-and-programming-theory.md)
   * [3. Client Side Code Execution With Office](osep/course/3.-client-side-code-execution-with-office.md)
+  * [4. Phishing with Microsoft Office](osep/course/4.-phishing-with-microsoft-office.md)
