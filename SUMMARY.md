@@ -42,6 +42,7 @@
 
 * [NOTES](osep/notes/README.md)
   * [MSFVenom](osep/notes/msfvenom.md)
+  * [Active Directory](osep/notes/active-directory.md)
 * [Course](osep/course/README.md)
   * [1. Evasion Techniques and Breaching Defenses: General Course Information](osep/course/1.-evasion-techniques-and-breaching-defenses-general-course-information.md)
   * [2. Operating System and Programming Theory](osep/course/2.-operating-system-and-programming-theory.md)
