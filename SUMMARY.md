@@ -66,3 +66,5 @@
   * [2. Operating System and Programming Theory](osep/course/2.-operating-system-and-programming-theory.md)
   * [3. Client Side Code Execution With Office](osep/course/3.-client-side-code-execution-with-office.md)
   * [4. Phishing with Microsoft Office](osep/course/4.-phishing-with-microsoft-office.md)
+* [Payloads](osep/payloads/README.md)
+  * [Reflective DLL Injection](osep/payloads/reflective-dll-injection.md)
