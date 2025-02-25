@@ -69,3 +69,5 @@
 * [Payloads](osep/payloads/README.md)
   * [Reflective DLL Injection](osep/payloads/reflective-dll-injection/README.md)
     * [Reflective DLL Injection](osep/payloads/reflective-dll-injection/reflective-dll-injection.md)
+  * [Process Hollowing](osep/payloads/process-hollowing/README.md)
+    * [readme](osep/payloads/process-hollowing/readme.md)
