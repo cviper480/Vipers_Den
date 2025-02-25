@@ -67,4 +67,5 @@
   * [3. Client Side Code Execution With Office](osep/course/3.-client-side-code-execution-with-office.md)
   * [4. Phishing with Microsoft Office](osep/course/4.-phishing-with-microsoft-office.md)
 * [Payloads](osep/payloads/README.md)
-  * [Reflective DLL Injection](osep/payloads/reflective-dll-injection.md)
+  * [Reflective DLL Injection](osep/payloads/reflective-dll-injection/README.md)
+    * [Reflective DLL Injection](osep/payloads/reflective-dll-injection/reflective-dll-injection.md)
