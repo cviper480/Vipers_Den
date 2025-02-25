@@ -37,6 +37,12 @@
   * [attl4s](https://attl4s.github.io/)
   * [You Do (Not) Understand Kerberos](https://www.youtube.com/watch?v=4LDpb1R3Ghg\&list=PLwb6et4T42wyb8dx-LQAA0PzLjw6ZlrXh)
   * [Solutions](cape/kerberos-attacks/solutions.md)
+* [Windows Lateral Movement](cape/windows-lateral-movement/README.md)
+  * [Solutions](cape/windows-lateral-movement/solutions.md)
+* [DACL Attacks I](cape/dacl-attacks-i/README.md)
+  * [Solutions](cape/dacl-attacks-i/solutions.md)
+* [DACL II](cape/dacl-ii.md)
+* [NTLM Relay Attacks](cape/ntlm-relay-attacks.md)
 
 ## OSEP
 
