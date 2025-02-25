@@ -49,12 +49,12 @@
   * [Solutions](cape/adcs-attacks/solutions.md)
 * [Active Directory Trust Attacks](cape/active-directory-trust-attacks/README.md)
   * [Solutions](cape/active-directory-trust-attacks/solutions.md)
-* [Intro to C2 Operations with Sliver](cape/intro-to-c2-operations-with-sliver/README.md)
-  * [Solutions](cape/intro-to-c2-operations-with-sliver/solutions.md)
 * [Introduction to Windows Evasion Techniques](cape/introduction-to-windows-evasion-techniques/README.md)
   * [Solutions](cape/introduction-to-windows-evasion-techniques/solutions.md)
 * [MSSQL, Exchange, and SCCM Attacks](cape/mssql-exchange-and-sccm-attacks/README.md)
   * [Solution](cape/mssql-exchange-and-sccm-attacks/solution.md)
+* [Active Directory LDAP](cape/active-directory-ldap/README.md)
+  * [Solutions](cape/active-directory-ldap/solutions.md)
 
 ## OSEP
 
